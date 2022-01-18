@@ -1,3 +1,5 @@
+### My LinkedIn 
+https://www.linkedin.com/in/marcelo-augusto-a60b6821a/
 # Intro
 This is a flutter Application created for my portfolio
 
